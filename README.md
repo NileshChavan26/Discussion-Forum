@@ -5,3 +5,4 @@ step3: this files containing quest.sql file import this file in database of loca
 step4: open chrome and type locahost/projectfoldername
 step5: open login.php file
 step6: Enjoy started Project 
+step7: This project also contains report if you want.
